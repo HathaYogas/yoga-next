@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: 버그 리포트를 작성할 때 사용하세요.
-title: ""
-labels: "bug"
-assignees: ""
+title: ''
+labels: 'bug'
+assignees: ''
 ---
 
 ### 버그 설명
