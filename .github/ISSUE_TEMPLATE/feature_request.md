@@ -1,9 +1,9 @@
 ---
 name: Feature Request
 about: 새로운 기능을 요청할 때 사용하세요.
-title: ''
-labels: 'enhancement'
-assignees: ''
+title: ""
+labels: "enhancement"
+assignees: ""
 ---
 
 ### 기능 설명
